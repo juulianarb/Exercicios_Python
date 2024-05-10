@@ -5,9 +5,10 @@
 
 # Exercício que calcula a área de um hexagono
 
-base = float(input("Digite o valor da base do hexágono, para calcular a área:"))
-altura = float(input("Digite o valor da altura do hexágono, para calcular a área:"))
+import math
 
-area = 6 * base * altura
+lado = float(input("Digite o tamanho do lado do hexágono para calcular sua área:"))
 
-print("A área do hexágono é de:" , area , " mt²")
+area = (3 * math.sqrt(3) * lado ** 2) / 2
+
+print(f"A área do hexágono é de {area: .2f} mt²")
