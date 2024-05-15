@@ -1,0 +1,151 @@
+1) Qual foi o ano de lançamento da primeira versão pública do Python?
+
+a) 1989
+
+b) 1991
+
+c) 1995
+
+d) 2000
+
+e) 2005
+
+
+
+2) Qual é o principal criador do Python?
+
+a) Guido van Rossum
+
+b) Linus Torvalds
+
+c) Larry Page
+
+d) Mark Zuckerberg
+
+e) Jeff Bezos
+
+
+
+3) Em qual área Python é amplamente utilizado?
+
+a) Astronomia
+
+b) Medicina
+
+c) Engenharia Civil
+
+d) Desenvolvimento Web
+
+e) Agricultura
+
+
+
+4) Qual é o tipo de dado usado para armazenar uma sequência de caracteres em Python?
+
+a) Inteiro
+
+b) Flutuante
+
+c) Booleano
+
+d) Lista
+
+e) String
+
+
+
+5) Qual é o resultado da expressão 2 + 3 * 4 em Python?
+
+a) 14
+
+b) 20
+
+c) 24
+
+d) 26
+
+e) 28
+
+
+
+6) Qual é o operador utilizado para a exponenciação em Python?
+
+a) +
+
+b) -
+
+c) *
+
+d) /
+
+e) **
+
+
+
+7) Qual função é usada para imprimir uma mensagem na tela em Python?
+
+a) print()
+
+b) write()
+
+c) display()
+
+d) show()
+
+e) echo()
+
+
+
+8) Em Python, como você cria um comentário de uma linha?
+
+a) //
+
+b) --
+
+c) '''
+
+d) #
+
+e) //
+
+
+
+9) Qual é o tipo de dado usado para representar valores verdadeiros ou falsos em Python?
+
+a) Inteiro
+
+b) Flutuante
+
+c) Booleano
+
+d) Lista
+
+e) String
+
+
+
+10) Qual é o operador utilizado para a concatenação de strings em Python?
+
+a) +
+
+b) -
+
+c) *
+
+d) /
+
+e) **
+
+
+
+11) Qual função é usada para converter um valor para um número inteiro em Python?
+
+a) int()
+
+b) float()
+
+c) str()
+
+d) bool()
+
+e) list()
